@@ -1,2 +1,0 @@
-INSERT INTO EMP_1 VALUES (101, 'News', 'John', 'G', '08/11/2000', 502);
-INSERT INTO EMP_1 VALUES (102, 'Senior', 'David', 'H', '12/07/1989', 501);
