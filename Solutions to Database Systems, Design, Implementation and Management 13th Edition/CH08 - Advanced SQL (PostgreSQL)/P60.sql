@@ -1,0 +1,2 @@
+CREATE SEQUENCE rent_num_seq
+START 1100;

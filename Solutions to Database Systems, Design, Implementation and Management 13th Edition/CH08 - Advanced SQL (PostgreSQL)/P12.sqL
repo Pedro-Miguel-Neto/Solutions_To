@@ -1,0 +1,3 @@
+UPDATE EMP_2
+SET EMP_PCT = EMP_PCT+0.15
+WHERE EMP_FNAME || ' ' || EMP_INITIAL || '. ' || EMP_LNAME = 'Maria D. Alonzo'
